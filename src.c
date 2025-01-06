@@ -4,7 +4,6 @@
 #include <math.h>
 
 
-
 int numberOfSubstrings(char* string){
 
     int numOfSubstrings = 1 ;
@@ -16,7 +15,6 @@ int numberOfSubstrings(char* string){
     }
 
     return numOfSubstrings ;
-
 
 }
 
@@ -130,11 +128,9 @@ int binaryToDecimal(char* string){
 }
 
 
-int* StringArrayToNumberArray(char** stringArray , int size){
-
+int* binStringArrayToNumberArray(char** stringArray , int size){
 
     int* intArray = (int*)malloc(size * sizeof(int));
-
 
     for(int i=0 ; i<size ; i++){
 
@@ -146,7 +142,7 @@ int* StringArrayToNumberArray(char** stringArray , int size){
 
 }
 
-char* numberArrayToString(int* intArray , int size){
+char* numberArrayToCharString(int* intArray , int size){
 
     char* string= (char*)malloc((size) * sizeof(char));
     string[size ]='\0' ;
