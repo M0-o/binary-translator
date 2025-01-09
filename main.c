@@ -19,11 +19,14 @@ int main()
             printf("\n\n");
             displayCharArray(intArray , outputSize);
             printf("\n\n");
-            char* finalString = numberArrayToCharString( intArray , outputSize);
+            char* finalString = numberArrayToString( intArray , outputSize);
             puts(finalString);
             printf("\n\n");
+            free(finalString);
+            free(intArray);
+            for(int i=0 ; i < outputSize ; i++) free(ArrayOfStrings[i]);
+            free(ArrayOfStrings);
     }
-
     system("pause");
 
     return 0;

@@ -142,7 +142,7 @@ int* binStringArrayToNumberArray(char** stringArray , int size){
 
 }
 
-char* numberArrayToCharString(int* intArray , int size){
+char* numberArrayToString(int* intArray , int size){
 
     char* string= (char*)malloc((size) * sizeof(char));
     string[size ]='\0' ;

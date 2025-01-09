@@ -6,6 +6,6 @@ void displayBinStringArray(char** stringArray , int size);
 int* binStringArrayToNumberArray(char** stringArray , int size);
 void displayIntArray(int* intArray , int size);
 void displayCharArray(int* CharArray , int size);
-char* numberArrayToCharString(int* intArray , int size);
+char* numberArrayToString(int* intArray , int size);
 
 #endif // HEAD_H_INCLUDED
