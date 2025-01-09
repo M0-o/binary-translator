@@ -12,7 +12,7 @@ This project aims translates groups of 8-bit strings into their human readable s
 
 ## 2. Functions
 <p align="center">
-<img src ="Assets/image5.png" style="width:65%;"/>
+<img src ="Assets/image5.png" style="width:700px; "/>
 </p>
 
 -Splits the input string into separate 8-character binary substrings.
@@ -21,7 +21,7 @@ This project aims translates groups of 8-bit strings into their human readable s
 
 <p align="center">
  
-<img src ="Assets/image4.png" style="width:65%; "/>
+<img src ="Assets/image4.png" style="width:700px; "/>
 </p>
 
 -Converts each 8-bit binary substring into its decimal representation.
@@ -30,7 +30,7 @@ This project aims translates groups of 8-bit strings into their human readable s
   
 <p align="center">
  
-<img src ="Assets/image3.png" style="width:65%; "/>
+<img src ="Assets/image3.png" style="width:700px; "/>
 </p>
 
 -Converts an array of decimal integers to a single string.
@@ -39,15 +39,15 @@ This project aims translates groups of 8-bit strings into their human readable s
 
 <p align="center">
  
- <img src ="Assets/image2.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+ <img src ="Assets/image2.png" style="width:700px;"/>
 </p>
 <p align="center">
  
- <img src ="Assets/image1.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+ <img src ="Assets/image1.png" style="width:700px;"/>
 </p>
 <p align="center">
  
- <img src ="Assets/image0.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+ <img src ="Assets/image0.png" style="width:700px;"/>
 </p>
 
 -Helpful functions that print out the results in neatly formatted arrays.
