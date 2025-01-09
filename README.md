@@ -1,6 +1,6 @@
 # Binary Translator
 
-This project aims translates groups of 8-bit strings into their human readable string equivalents following a modular approach .
+This project aims to translate a string composed of 8-bit binary numbers into its human readable string equivalents following a modular approach .
 
 ## 1. Approach
 
