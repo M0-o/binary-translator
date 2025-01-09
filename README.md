@@ -11,30 +11,44 @@ This project aims translates groups of 8-bit strings into their human readable s
 5. Print or Display: Write helper functions to show the binary, decimal, or character outputs.
 
 ## 2. Functions
-
-<img src ="Assets/image5.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+<p align="center">
+<img src ="Assets/image5.png" style="width:65%;"/>
+</p>
 
 -Splits the input string into separate 8-character binary substrings.
 
 - Returns an array of strings and populates `outputSize` with the number of substrings.
 
-<img src ="Assets/image4.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+<p align="center">
+ 
+<img src ="Assets/image4.png" style="width:65%; "/>
+</p>
 
 -Converts each 8-bit binary substring into its decimal representation.
 
 - Returns an array of integers.
-
-<img src ="Assets/image3.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+  
+<p align="center">
+ 
+<img src ="Assets/image3.png" style="width:65%; "/>
+</p>
 
 -Converts an array of decimal integers to a single string.
 
 - Returns a dynamically allocated string.
 
+<p align="center">
+ 
  <img src ="Assets/image2.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
-
+</p>
+<p align="center">
+ 
  <img src ="Assets/image1.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
-
+</p>
+<p align="center">
+ 
  <img src ="Assets/image0.png" style="width:65%; margin-left:15%; marin-top:1rem; margin-bottom:1rem;"/>
+</p>
 
 -Helpful functions that print out the results in neatly formatted arrays.
 
